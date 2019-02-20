@@ -9,7 +9,7 @@ function addItem(index, item) {
         '<tr>' +
         '<td>' + [index +1] + '</td>' +
         '<td>' + item.Title + '</td>' +
-        '<td>' + item.Customer_Name. + '</td>'  +
+        '<td>' + item.Customer_Name + '</td>'  +
         '<td>' + item.Description +  '</td>' +
         '<td>' + item.Request_Type +  '</td>' +
         '<td>' + item.Category +  '</td>' +
